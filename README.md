@@ -7,3 +7,6 @@ https://www.digitalocean.com/community/tutorials/how-to-ensure-code-quality-with
 
 
 code for testing
+
+publish over ssh:-
+https://nozaki.me/roller/kyle/entry/articles-jenkins-sshdeploy
